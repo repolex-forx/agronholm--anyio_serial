@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "anyio_serial",
+  "versions": [
+    {
+      "commit": "fe0b3520bb2fbfe12edd9599f7d113516c6ffeb2",
+      "parsed_at": "2026-10-11T20:47:34.371160+00:00",
+      "tag": "0.1.4",
+      "filetree": "filetree/fe0b3520bb2fbfe12edd9599f7d113516c6ffeb2.nq.gz",
+      "blobs": [
+        "blob/4e176a7cd737c1043ba836deb1f85fbb82f0929a.nq.gz",
+        "blob/3abf130748cb657718acab8235dc0b7f8529af22.nq.gz",
+        "blob/f8c76d447cffad5a3bc661dfb227f214fabcf976.nq.gz",
+        "blob/c52e7d824322688564af8b1c38fa19eed6913ad6.nq.gz",
+        "blob/59016158682477848f267a44a9a798d4a436d635.nq.gz",
+        "blob/754452379da3ec17969cd4e5481e853fd225a7a6.nq.gz",
+        "blob/5868a7c1ab8c07b16468f290348041cd5cb28234.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
