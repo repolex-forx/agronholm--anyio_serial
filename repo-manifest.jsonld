@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/agronholm/anyio_serial/commit/fe0b3520bb2fbfe12edd9599f7d113516c6ffeb2",
       "git:hexsha": "fe0b3520bb2fbfe12edd9599f7d113516c6ffeb2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.1.4"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.1.4",
+      "repolex:parsedAt": "2026-10-11T20:49:22.193390+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/anyio_serial/commit/69ba6355eb58e734f49bdaa878578c68ee146b15",
