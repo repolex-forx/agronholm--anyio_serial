@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "anyio_serial",
+  "versions": [
+    {
+      "commit": "fe0b3520bb2fbfe12edd9599f7d113516c6ffeb2",
+      "tag": "0.1.4",
+      "parsed_at": "2026-10-11T20:49:22.194142+00:00"
+    }
+  ]
+}
